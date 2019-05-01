@@ -1,5 +1,7 @@
 # How To Get The Most Out Of This Book
 
+Type your edit
+
 As I mentioned, some of this content has been available for years. However, I’ve completely re-written it all and added around 25,000 words of new information to help guide people in understanding and switching to automated insulin delivery. I want this content to be easily accessible to people. So I’ve chosen the following formats for the content:
 
 ![The content is available on this site \(free\) or as PDF download \(free\), as well as on Amazon where you can order a physical copy, and as an e-book for Kindle.](.gitbook/assets/automated_insulin_delivery_by_danamlewis_example_covers_rendering.jpg)
