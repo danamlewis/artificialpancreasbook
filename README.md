@@ -12,3 +12,7 @@ It’s certainly one you can tackle. After all, you’re already tackling type 1
 
 In this book, you’ll find new analogies to help you understand – and explain – this new method of diabetes management, and tips on how to communicate with your healthcare provider\(s\) about it. You’ll see stories and examples from real families and individuals living with type 1 diabetes and how they benefit from artificial pancreas systems, and why they chose and continue to choose to use them. You’ll be empowered to understand the basic components of artificial pancreas systems, how they work, and what questions to ask as you evaluate your choices and learn how best to integrate them into your lifestyle.
 
+![The content is available on this site \(free\) or as PDF download \(free\), as well as on Amazon where you can order a physical copy, and as an e-book for Kindle.](.gitbook/assets/automated_insulin_delivery_by_danamlewis_example_covers_rendering.jpg)
+
+
+

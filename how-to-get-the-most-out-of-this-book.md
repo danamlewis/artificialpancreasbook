@@ -2,12 +2,14 @@
 
 As I mentioned, some of this content has been available for years. However, I’ve completely re-written it all and added around 25,000 words of new information to help guide people in understanding and switching to automated insulin delivery. I want this content to be easily accessible to people. So I’ve chosen the following formats for the content:
 
-* A traditional, physical “book” format - a physical, printed book that’s available through self-publishing. It’s priced so that every 2 copies purchased will fund an author-priced copy that I will donate to hospitals, libraries, etc. You can find it here on Amazon.
-* An “e-book” format - a version that can be downloaded to your Kindle. You can find it here on Amazon.
-* A PDF format - which you can download and read on your computer or other e-reader of choice. This is accessible at URL.com/download
-* A website - so you can review portions of the content anytime, and see any changes over time. There will also be additional links and videos with more content. The website and its content are open source, so if you see any typos or have suggestions, you can make those suggestions or edits directly!
+![The content is available on this site \(free\) or as PDF download \(free\), as well as on Amazon where you can order a physical copy, and as an e-book for Kindle.](.gitbook/assets/automated_insulin_delivery_by_danamlewis_example_covers_rendering.jpg)
 
-The PDF and web versions of this book are free, but if you have found value in any of the content \(or similar content that I’ve written at [DIYPS.org](http://DIYPS.org) over the past five years\), please consider using the donate button. Any funds received will be used to buy more author-priced copies to be donated, or be donated to my charity of choice, Life for a Child. Or, feel free to [make a donation to Life for a Child directly](https://lfacinternational.org/donate/)! Thank you.
+* A traditional, physical “book” format - a physical, printed book that’s available through self-publishing. It’s priced so that every 2 copies purchased will fund an author-priced copy that I will donate to hospitals, libraries, etc. You can find it here on Amazon.
+* An “e-book” format - a version that can be downloaded to your Kindle. [You can find it here on Amazon](https://amzn.to/2DGzUwC).
+* A PDF format - which you can download and read on your computer or other e-reader of choice. [Click here to go to the download page. ](download-a-pdf.md)
+* A website \([this site](./)!\)- so you can review portions of the content anytime, and see any changes over time. There will also be additional links and videos with more content. The website and its content are open source, so if you see any typos or have suggestions, you can make those suggestions or edits directly!
+
+The PDF and web versions of this book are free, but if you have found value in any of the content \(or similar content that I’ve written at [DIYPS.org](http://DIYPS.org) over the past five years\), please consider [donating](donate.md). Any funds received will be used to buy more author-priced copies to be donated, or be donated to my charity of choice, Life for a Child. Or, feel free to [make a donation to Life for a Child directly](https://lfacinternational.org/donate/)! Thank you.
 
 The open-source web version will drive subsequent edits and updates to the other three formats \(PDF, e-book, and physical copies\), and I’ll keep a version history page on the website so if you purchase the book, you can look and see what’s changed over time in each of the versions or formats. You can also sign up for a Google Group mailing list where I’ll email out when I make major revisions.
 
