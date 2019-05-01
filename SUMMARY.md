@@ -21,7 +21,7 @@
 * [Resources](resources.md)
 * [Glossary](glossary.md)
 * [About the Author](about-the-author.md)
-* [Download a PDF](download-a-pdf.md)
+* [Download a PDF](download.md)
 * [What's changed in the latest version?](whats-changed-in-the-latest-version.md)
 * [Donate](donate.md)
 

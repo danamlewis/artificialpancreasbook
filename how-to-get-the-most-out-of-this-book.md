@@ -6,7 +6,7 @@ As I mentioned, some of this content has been available for years. However, I’
 
 * A traditional, physical “book” format - a physical, printed book that’s available through self-publishing. It’s priced so that every 2 copies purchased will fund an author-priced copy that I will donate to hospitals, libraries, etc. You can find it here on Amazon.
 * An “e-book” format - a version that can be downloaded to your Kindle. [You can find it here on Amazon](https://amzn.to/2DGzUwC).
-* A PDF format - which you can download and read on your computer or other e-reader of choice. [Click here to go to the download page. ](download-a-pdf.md)
+* A PDF format - which you can download and read on your computer or other e-reader of choice. [Click here to go to the download page. ](download.md)
 * A website \([this site](./)!\)- so you can review portions of the content anytime, and see any changes over time. There will also be additional links and videos with more content. The website and its content are open source, so if you see any typos or have suggestions, you can make those suggestions or edits directly!
 
 The PDF and web versions of this book are free, but if you have found value in any of the content \(or similar content that I’ve written at [DIYPS.org](http://DIYPS.org) over the past five years\), please consider [donating](donate.md). Any funds received will be used to buy more author-priced copies to be donated, or be donated to my charity of choice, Life for a Child. Or, feel free to [make a donation to Life for a Child directly](https://lfacinternational.org/donate/)! Thank you.
