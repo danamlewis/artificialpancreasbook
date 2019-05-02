@@ -24,4 +24,5 @@
 * [Download a PDF](download.md)
 * [What's changed in the latest version?](whats-changed-in-the-latest-version.md)
 * [Donate](donate.md)
+* [Help edit this book!](help-edit-this-book.md)
 
