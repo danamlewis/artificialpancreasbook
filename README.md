@@ -27,6 +27,6 @@ A PDF format - which you can download for free and read on your computer or othe
 {% endhint %}
 
 {% hint style="info" %}
-A website \([this site](./)!\)- so you can review portions of the content anytime, and see any changes over time. There will also be additional links and videos with more content. The website and its content are open source, so if you see any typos or have suggestions, you can make those suggestions or edits directly!
+A website \([this site](./)!\)- so you can review portions of the content anytime, and see any changes over time. There will also be additional links and videos with more content. The website and its content are open source, so if you see any typos or have suggestions, you can make those suggestions or edits directly! To keep reading the web version, just hit Next below. 
 {% endhint %}
 
