@@ -27,3 +27,15 @@ Here are some of the resources discussed throughout the book, and other helpful 
 * Tim Street: [http://www.diabettech.com/](http://www.diabettech.com/)
 * Mary Anne Patton: [https://myartificialpancreas.net/](https://myartificialpancreas.net/)
 
+## Videos about APS
+
+{% embed url="https://www.youtube.com/watch?v=kgu-AYSnyZ8&t=" %}
+
+{% embed url="https://www.youtube.com/watch?v=LMIhoddYr5w" %}
+
+{% embed url="https://www.youtube.com/watch?v=p76hGxv3-HE" %}
+
+
+
+
+
