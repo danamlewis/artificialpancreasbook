@@ -10,7 +10,7 @@ To make a PR, you can click on any page where it says "Edit on Github" and it wi
 
 ![](.gitbook/assets/edit_github_example.png)
 
-Click the pencil icon in the top right corner. 
+Sign up or login to Github. Then, click the pencil icon in the top right corner. 
 
 ![](.gitbook/assets/edit_github_2%20%281%29.png)
 
