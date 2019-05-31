@@ -12,5 +12,5 @@ In an open source community project like OpenAPS, especially ones that grows int
 
 **Thank you to everyone who has touched, and given so much to, the diabetes community through DIY & open source projects.**
 
-And specifically for this book, many thanks to Tim Gunn for front cover design; as well as to those who provided early feedback and input into the book: Jason Wittmer, Mary Anne Patton, Hamish Crockett, Joanne Dellert, Klara Pickova, Leif Sawyer, Scott Johnson, Sufyan Hussain.
+And specifically for this book, many thanks to Tim Gunn for front cover design; as well as to those who provided early feedback and input into the book: Jason Wittmer, Mary Anne Patton, Hamish Crockett, Joanne Dellert, Klara Pickova, Leif Sawyer, Scott Johnson, Sufyan Hussain, Amy Tenderich.
 

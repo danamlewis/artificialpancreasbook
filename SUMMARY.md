@@ -3,6 +3,7 @@
 * [Automated Insulin Delivery](README.md)
 * [Disclaimer](disclaimer.md)
 * [Preface](preface.md)
+* [Foreword by Aaron Kowalski](foreword-by-aaron-kowalski.md)
 * [Introduction](introduction.md)
 * [How To Get The Most Out Of This Book](how-to-get-the-most-out-of-this-book.md)
 * [1. What’s a closed loop or artificial pancreas system, and why would someone use one?](1.-whats-a-closed-loop-or-artificial-pancreas-system-and-why-would-someone-use-one.md)
@@ -25,4 +26,5 @@
 * [What's changed in the latest version?](whats-changed-in-the-latest-version.md)
 * [Donate](donate.md)
 * [Help edit this book!](help-edit-this-book.md)
+* [Testimonials](testimonials.md)
 

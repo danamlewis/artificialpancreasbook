@@ -46,7 +46,7 @@ I sent that tweet to Scott, who suggested that we actually reach out to John and
 
 At the time, pulling data off the CGM still required a PC, so I borrowed an old, clunky PC laptop from Scott to sit under my bedside table. We set up John’s code so that when I plugged in my CGM to the laptop, it would pull the data off the receiver. There was a script that would tell it to pull the data off every 5 minutes, which is when a new BG data point would come in. Scott and I designed it to take the new data and add it to a file in the Dropbox folder on the computer. It would then be uploaded to the cloud, and downloaded to a virtual Linux server we set up for the purpose. From there, we designed a simple series of rules to tell the computer when to alarm me. We also got a simple $5 alarm app called “Pushover”, which would receive the commands and send the alarms to my phone.
 
-![Showing how DIYPS works: automated BG uploads to the cloud, coupled with inputs about carb &amp; insulin, enables push alerts and predictions to the devices of my choice.](.gitbook/assets/diyps_example.jpg)
+![](.gitbook/assets/diyps_example%20%281%29.jpg)
 
 It worked fantastically, even on the first night. I got several alarms telling me that my blood glucose level was going high, or low. And I actually heard the alarms! It was an incredible relief to know that I had this backup system in place.
 
