@@ -3,7 +3,7 @@
 Looking for a PDF of the book?
 
 {% hint style="success" %}
-[Click here to download \(v0.0.2\)](http://bit.ly/2IUIbkJ)
+[Click here to download \(v0.0.4\)](http://bit.ly/2Xjoc2G)
 {% endhint %}
 
 Have you appreciated any of the content from this site, or the PDF download?
