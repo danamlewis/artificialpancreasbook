@@ -4,7 +4,7 @@ As I mentioned, some of this content has been available for years. However, I’
 
 ![The content is available on this site \(free\) or as PDF download \(free\), as well as on Amazon where you can order a physical copy, and as an e-book for Kindle.](.gitbook/assets/automated_insulin_delivery_by_danamlewis_example_covers_rendering.jpg)
 
-* A traditional, physical “book” format - a physical, printed book that’s available through self-publishing. It’s priced so that every 2 copies purchased will fund an author-priced copy that I will donate to hospitals, libraries, etc. You can find it here on Amazon.
+* A traditional, physical “book” format - a physical, printed book that’s available through self-publishing. It’s priced so that every 2 copies purchased will fund an author-priced copy that I will donate to hospitals, libraries, etc. [You can find it here on Amazon.](http://bit.ly/PrintAPSBook)
 * An “e-book” format - a version that can be downloaded to your Kindle. [You can find it here on Amazon](https://amzn.to/2DGzUwC).
 * A PDF format - which you can download and read on your computer or other e-reader of choice. [Click here to go to the download page. ](download.md)
 * A website \([this site](./)!\)- so you can review portions of the content anytime, and see any changes over time. There will also be additional links and videos with more content. The website and its content are open source, so if you see any typos or have suggestions, you can make those suggestions or edits directly!

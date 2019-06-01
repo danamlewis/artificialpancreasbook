@@ -15,7 +15,7 @@ In this book, you’ll find new analogies to help you understand – and explain
 ![The content is available on this site \(free\) or as PDF download \(free\), as well as on Amazon where you can order a physical copy, and as an e-book for Kindle.](.gitbook/assets/automated_insulin_delivery_by_danamlewis_example_covers_rendering.jpg)
 
 {% hint style="success" %}
-A traditional, physical “book” format - a physical, printed book that’s available through self-publishing. It’s priced so that every 2 copies purchased will fund an author-priced copy that I will donate to hospitals, libraries, etc. You can find it here on Amazon.
+A traditional, physical “book” format - a physical, printed book that’s available through self-publishing. It’s priced so that every 2 copies purchased will fund an author-priced copy that I will donate to hospitals, libraries, etc. [You can find it here on Amazon.](http://bit.ly/PrintAPSBook)
 {% endhint %}
 
 {% hint style="success" %}
