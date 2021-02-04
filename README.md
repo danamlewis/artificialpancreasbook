@@ -32,3 +32,8 @@ A website \([this site](./)!\)- so you can review portions of the content anytim
 _\(To keep reading the web version, just hit the "Next" button below.\)_
 {% endhint %}
 
+{% hint style="info" %}
+For a narrated video to explain the basics of automated insulin delivery technology, check out [this free video](https://bit.ly/39Paa1O) that uses an analogy of scuba diving to help explain to kids or others with less experience of diabetes. It's also available in [print](https://amzn.to/3tqJHza) or [Kindle](https://amzn.to/39MzCVE) book forms.
+
+![Visual of different book formats for "Understanding Automated Insulin Delivery: A basic book for kids, family, and friends of people living with diabetes ", a book for kids, by Dana M. Lewis](.gitbook/assets/UnderstandingAutomatedInsulinDelivery_Book_DanaMLewis.png)
+{% endhint %}
