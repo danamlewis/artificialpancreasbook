@@ -3,8 +3,10 @@
 Looking for a PDF of the book?
 
 {% hint style="success" %}
-[Click here to download \(v0.0.4\)](http://bit.ly/2Xjoc2G)
+[Click here to download (v0.0.5)](https://bit.ly/3m3vOW3)
 {% endhint %}
+
+The previous version of the book [(v0.0.4\)](http://bit.ly/2Xjoc2G) is still available to download. The changes in v0.0.5 include updated date references; additional research studies; updated list of compatible pumps with open source systems; and a few typo fixes. 
 
 Have you appreciated any of the content from this site, or the PDF download?
 
