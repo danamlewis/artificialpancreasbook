@@ -8,7 +8,7 @@ Here are some of the resources discussed throughout the book, and other helpful 
 
 #### Documentation for a few different DIY diabetes projects:
 
-* Nightscout: [http://www.nightscout.info/wiki/welcome/set-up-nightscout-using-heroku](http://www.nightscout.info/wiki/welcome/set-up-nightscout-using-heroku)
+* Nightscout: [https://nightscout.github.io/](https://nightscout.github.io/)
 * OpenAPS: [http://openaps.readthedocs.org/en/latest/](http://openaps.readthedocs.org/en/latest/)
 * AndroidAPS: [https://androidaps.readthedocs.io/en/latest/](https://androidaps.readthedocs.io/en/latest/)
 * Loop: [https://loopkit.github.io/loopdocs/](https://loopkit.github.io/loopdocs/)
