@@ -23,6 +23,12 @@ Here are some of the resources discussed throughout the book, and other helpful 
 
 * Meta-analysis article \(Tsapas et. al, BMJ\): [https://www.bmj.com/content/361/bmj.k1310](https://www.bmj.com/content/361/bmj.k1310)
 * “Excellent Glycemic Control Maintained by Open-Source Hybrid Closed-Loop AndroidAPS During and After Sustained Physical Activity” \(Petruzelkova et al\): [https://www.liebertpub.com/doi/10.1089/dia.2018.0214](https://www.liebertpub.com/doi/10.1089/dia.2018.0214)
+* “Glycemic Control in Individuals with Type 1 Diabetes Using an Open Source Artificial Pancreas System (OpenAPS)” (Melmer et al): https://dom-pubs.onlinelibrary.wiley.com/doi/10.1111/dom.13810
+* “Efficacy, safety, and user experience of DIY or open-source artificial pancreas systems: a systematic review” (Asarani et al): https://link.springer.com/article/10.1007%2Fs00592-020-01623-4
+* “In Silico Trials of an Open-Source Android-Based Artificial Pancreas: A New Paradigm to Test Safety and Efficacy of Do-It-Yourself Systems” (Toffanin et al): https://www.liebertpub.com/doi/10.1089/dia.2019.0375
+* “A real-world study of user characteristics, safety and efficacy of open-source closed-loop systems and Medtronic 670G” (Jeyaventhan et al): https://dom-pubs.onlinelibrary.wiley.com/doi/10.1111/dom.14439?af=R
+* “Use of a do-it-yourself artificial pancreas system is associated with better glucose management and higher quality of life among adults with type 1 diabetes” (Wu et al):https://journals.sagepub.com/doi/10.1177/2042018820950146
+* “CREATE (Community deRivEd AutomaTEd insulin delivery) trial. Randomised parallel arm open label clinical trial comparing automated insulin delivery using a mobile controller (AnyDANA-loop) with an open-source algorithm with sensor augmented pump therapy in type 1 diabetes” (Burnside et al): https://link.springer.com/article/10.1007%2Fs40200-020-00547-8
 * All the DIY studies mentioned otherwise are linked from [OpenAPS.org/outcomes](http://OpenAPS.org/outcomes)
 
 ## Blogs covering living with APS:
