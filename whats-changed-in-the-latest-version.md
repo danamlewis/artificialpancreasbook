@@ -10,3 +10,10 @@ v0.0.4
 
 * Added testimonial page and foreword, plus revisions to HCP chapter for clarity. 
 
+v0.0.5
+
+* Updated date references; additional research studies; updated list of compatible pumps with open source systems; and a few typo fixes.
+
+v0.0.6
+
+* Minor changes to AndroidAPS pump options
