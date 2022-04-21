@@ -6,6 +6,10 @@ Looking for a PDF of the book?
 [Click here to download (v0.0.6)](https://bit.ly/3LHIfBN) 
 {% endhint %}
 
+{% hint style="success" %}
+[Cliquez ici pour télécharger (v0.0.6) en français !](https://bit.ly/3EB4giq)
+{% endhint %}
+
 The previous versions of the book, [(v0.0.5)](https://bit.ly/3m3vOW3), [(v0.0.4)](http://bit.ly/2Xjoc2G) are still available to download. The changes in v0.0.5 include updated date references; additional research studies; updated list of compatible pumps with open source systems; and a few typo fixes. The changes in v0.0.6 are minor regarding AndroidAPS pump options. 
 
 Have you appreciated any of the content from this site, or the PDF download?
