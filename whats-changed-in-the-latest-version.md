@@ -17,3 +17,6 @@ v0.0.5
 v0.0.6
 
 * Minor changes to AndroidAPS pump options
+
+v0.0.7
+* updates to the research section with the latest RCTs on open source AID systems commonly used in DIYAPS. Reference list also updated accordingly.
