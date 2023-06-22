@@ -29,6 +29,10 @@ Here are some of the resources discussed throughout the book, and other helpful 
 * “A real-world study of user characteristics, safety and efficacy of open-source closed-loop systems and Medtronic 670G” (Jeyaventhan et al): https://dom-pubs.onlinelibrary.wiley.com/doi/10.1111/dom.14439?af=R
 * “Use of a do-it-yourself artificial pancreas system is associated with better glucose management and higher quality of life among adults with type 1 diabetes” (Wu et al):https://journals.sagepub.com/doi/10.1177/2042018820950146
 * “CREATE (Community deRivEd AutomaTEd insulin delivery) trial. Randomised parallel arm open label clinical trial comparing automated insulin delivery using a mobile controller (AnyDANA-loop) with an open-source algorithm with sensor augmented pump therapy in type 1 diabetes” (Burnside et al): https://link.springer.com/article/10.1007%2Fs40200-020-00547-8
+* “Open-Source Automated Insulin Delivery in Type 1 Diabetes” (Burnside et al, New England Journal of Medicine in 2022): https://doi.org/10.1056/NEJMoa2203913
+* “Extended use of an open-source automated insulin delivery system in children and adults with type 1 diabetes: The 24-week continuation phase following the CREATE randomized controlled trial” (Burnside et al, Diabetes Technology and Therapeutics, 2023): https://doi.org/10.1089/dia.2022.0484
+* “First Use of Open-Source Automated Insulin Delivery AndroidAPS in Full Closed-Loop Scenario: Pancreas4ALL Randomized Pilot Study” (Petruzelkova et al, 2023): https://doi.org/10.1089/dia.2022.0562
+* “Hybrid Closed Loop Using a Do-It-Yourself Artificial Pancreas System in Adults With Type 1 Diabetes” (Nanayakkara et al, 2023): https://doi.org/10.1177/19322968231153882
 * All the DIY studies mentioned otherwise are linked from [OpenAPS.org/outcomes](http://OpenAPS.org/outcomes)
 
 ## Blogs covering living with APS:
