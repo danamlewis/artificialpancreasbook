@@ -3,7 +3,7 @@
 Have you appreciated any of the content from this site, or the PDF download?
 
 {% hint style="info" %}
-Please consider [donating directly to Life for a Child](https://lfacinternational.org/donate/) and helping fund life-saving insulin, test strips, meters, and diabetes education for kids around the world. 
+Please consider [donating directly to Life for a Child](https://lifeforachild.org/donate/) and helping fund life-saving insulin, test strips, meters, and diabetes education for kids around the world. 
 {% endhint %}
 
 {% hint style="info" %}
